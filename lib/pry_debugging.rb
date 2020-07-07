@@ -1,7 +1,7 @@
-def plus_two(num + 2)
+def plus_two(num)
 	
-	num 
-	num 
+	num + 2
+	num + 2 
 	
 	end
 	
